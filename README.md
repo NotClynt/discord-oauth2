@@ -3,7 +3,7 @@ This is a provider for the package [golang.org/x/oauth2](https://godoc.org/golan
 
 ## Install
 ```sh
-$ go get github.com/ravener/discord-oauth2
+$ go get github.com/clynt707/discord-oauth2
 ```
 
 ## Usage
@@ -11,7 +11,7 @@ $ go get github.com/ravener/discord-oauth2
 package main
 
 import (
-  "github.com/ravener/discord-oauth2"
+  "github.com/clynt707/discord-oauth2"
   "golang.org/x/oauth2"
 )
 
@@ -35,7 +35,7 @@ func main() {
 ```
 A full authentication flow example server can be found in [example directory](example)
 
-You can join [`#oauth2` in my Discord Server](https://discord.gg/wpE3Nfp) for support and updates.
+You can join [my Discord Server](https://discord.gg/upload) for support and updates.
 
 ## License
 [MIT](LICENSE)
